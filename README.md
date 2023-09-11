@@ -1,11 +1,24 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left">
-  Olá, sou o Guilherme, Desenvolvedor Web Full-Stack com paixão por construir aplicativos web bonitos e funcionais. Atualmente focado em React e Node.js.
-</p>
+## Hello there, I'm Guilherme, a Full Stack developer!
+- 🎓 I have a degree in Information Systems and I am currently pursuing a degree in Software Engineering at Universidade Cruzeiro do Sul.
+- 📌 Currently learning Next.js and Ruby on Rails.
+- 📚 I'm interested in learning Vite, Vue, Angular.
+- ⛵⚓ Random fact about me: I am a sailor and have competed for the Brazilian Navy during my time in the military..
+- 📩 If you find any bugs in my code or if you have any feedback feel free to contact me!
+### Some of my projects:
+- 🔒 An open-source password manager designed to securely store and protect your sensitive information. Keep your passwords organized and safely accessible. Check it [HERE](https://github.com/guilhermcos/password_manager).
+- 🎯🏆 A habit tracking Mobile Web App. Check it [HERE](https://github.com/guilhermcos/Track-it).
+- 🍔🥦 A social media platform centered around sharing about food and meals. Check it [HERE](https://github.com/guilhermcos/snapdishes).
+### Where to find me:
+<div align="left">
+<a href="https://instagram.com/guilhermcos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:guilhermcos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilhermcos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+ </div>
 
-<p align="left">
-  🤖 Tecnologias: <br/>
+ ### Technologies I'm working with:
+<div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -16,24 +29,7 @@
   <img src="https://img.shields.io/badge/Prisma_ORM-000000?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  
-</p>
-
-<p align="left">
-  📩 Contato:
-</p>
-
-<p align="left">
-  <a href="mailto:guigc0408@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=guigc0408@gmail.com" /></a>
-
-  <a href="https://www.linkedin.com/in/guilherme-costa-630054188/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="https://www.instagram.com/guilhermcos/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+</div>
