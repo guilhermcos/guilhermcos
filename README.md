@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## Hello there, I'm Guilherme, a Full Stack developer!
-- 🎓 I have a degree in Information Systems and I am currently pursuing a degree in Software Engineering at Universidade Cruzeiro do Sul.
+- 🎓 I am currently pursuing a degree in Analysis and Systems Development.
 - 📌 Currently learning Next.js and Ruby on Rails.
 - 📚 I'm interested in learning Vite, Vue, Angular.
 - ⛵⚓ Random fact about me: I am a sailor and have competed for the Brazilian Navy during my time in the military..
